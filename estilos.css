@@ -173,7 +173,7 @@ color: black;
    font-weight: 100;
    font-size: 18px;
    font-family: 'Josefin Sans', sans-serif;
-
+   text-align: center;
 }
 
 .contenedor-jolc iframe{
@@ -213,7 +213,7 @@ color: black;
     font-weight: 100;
     font-size: 18px;
     font-family: 'Josefin Sans', sans-serif;
- 
+   text-align: justify;
  }
 
 .contenedor-servicio img{
