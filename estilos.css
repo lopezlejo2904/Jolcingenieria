@@ -426,11 +426,12 @@ color: #0f5d82bb;
    font-family: 'Josefin Sans', sans-serif;
 }
 
-    <div class="lineblanca">
-        <br>
-        <p>© 2023 JOLC INGENIERIA S.A.S.</p>
-        <br>
-    </div>
+.lineblanca{
+   margin: 0 auto;
+   font-size: 18px;
+   text-align: center;
+   font-family: 'Josefin Sans', sans-serif;
+}
 
 @media screen and (max-width:800px){
    .menu-navegacion{
